@@ -2,7 +2,7 @@ Folder 1 contains 3 files demonstrating an example simulation of the spiking neu
 
 - start.py: example run of network III with no suppression
 - SpikingNeuronModel.py: library for the simulation
-- networkC.txt: coupling strength matrix of the network III
+- network_III.txt.zip: zipped file for coupling strength matrix of network III
 
 Python libraries required:
 
